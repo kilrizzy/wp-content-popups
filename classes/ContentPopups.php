@@ -35,7 +35,6 @@ class ContentPopups
         global $wp_styles;
 
         if (!is_admin()) {
-            print_r(get_template_directory_uri());
             wp_register_style('colorbox-css', $this->pluginPath . '/resources/colorbox/example1/colorbox.css', array(), '', 'all');
             wp_register_script('colorbox-js', $this->pluginPath  . '/resources/colorbox/jquery.colorbox-min.js', array('jquery'), '', false);
             wp_enqueue_script('colorbox-js');

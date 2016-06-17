@@ -3,7 +3,7 @@
  * Plugin Name: Content Popups
  * Plugin URI: http://artisanseo.com
  * Description: Manage Popup Posts
- * Version: 0.1.0
+ * Version: 0.1.1
  * Author: Jeff Kilroy
  * Author URI: http://jeffkilroy.com
  * License: GPL2
